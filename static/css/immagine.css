@@ -1,0 +1,5 @@
+.immagine {
+  background-image: url("..static/img/test.png");
+  background-size: calc();
+  background-repeat: no-repeat;
+}
