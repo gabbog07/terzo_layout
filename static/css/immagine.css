@@ -1,5 +1,5 @@
 .immagine {
   background-image: url("..static/img/test.png");
-  background-size: calc();
+  background-size: cover;
   background-repeat: no-repeat;
 }

@@ -1,0 +1,8 @@
+.paragraph p {
+  font-size: 30px;
+  color: white;
+  line-height: normal;
+  font-family: "Merriweather", serif;
+  font-weight: normal;
+  text-align: center;
+}
