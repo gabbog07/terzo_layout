@@ -1,0 +1,13 @@
+.link_loghi {
+  display: flex;
+  flex-direction: row;
+  justify-content: end;
+  margin-right: 35px;
+}
+
+.link_loghi img {
+  margin-left: 55px;
+  margin-top: 180px;
+  width: 25px;
+  height: 25px;
+}

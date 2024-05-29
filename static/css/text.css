@@ -1,8 +1,30 @@
 .paragraph p {
   font-size: 30px;
-  color: white;
-  line-height: normal;
-  font-family: "Merriweather", serif;
-  font-weight: normal;
+  color: #fff;
+  font-family: Hoefler;
+  font-style: normal;
   text-align: center;
+  margin-top: 55px;
+  margin-bottom: 0px;
+}
+
+.paragraph h1 {
+  font-size: 80px;
+  color: #fff;
+  font-family: Merriweather;
+  border-top: solid;
+  border-bottom: solid;
+  border-bottom-color: #343434;
+  border-top-color: #343434;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  margin: 0px;
+}
+
+.paragraph {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 100px;
 }

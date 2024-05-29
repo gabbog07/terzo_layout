@@ -1,0 +1,22 @@
+.nav ul {
+  display: flex;
+  margin-top: 60px;
+  margin-right: 35px;
+}
+
+.nav li {
+  font-family: "Merriweather";
+  font-size: 20px;
+  list-style: none;
+  margin-left: 55px;
+  color: #fff;
+  flex-direction: row;
+  text-decoration: none;
+  display: flex;
+}
+
+.nav a {
+  text-decoration: none;
+  color: #fff;
+  list-style: none;
+}

@@ -1,0 +1,12 @@
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 0px;
+}
+
+.logo_panetti {
+  margin-left: 35px;
+  margin-top: 20px;
+}
